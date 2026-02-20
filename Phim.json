@@ -1,0 +1,23 @@
+{
+  "name": "OPhim Playlist",
+  "author": "Gemini AI",
+  "image": "https://ophim1.com/logo-ophim-6.png",
+  "description": "Playlist được chuyển đổi từ API OPhim",
+  "list": [
+    {
+      "name": "Con Ra Thể Thống Gì Nữa (2026)",
+      "image": "https://img.otruyenapi.com/uploads/movies/con-ra-the-thong-gi-nua-thumb.jpg",
+      "description": "Nội dung: Phim xoay quanh những tình huống dở khóc dở cười trong gia đình hiện đại năm 2026.",
+      "links": [
+        {
+          "name": "Tập 01",
+          "link": "https://s3.phim1280.tv/20260220/con-ra-the-thong-gi-nua/index.m3u8"
+        },
+        {
+          "name": "Tập 02 (Dự phòng)",
+          "link": "https://s3.phim1280.tv/20260220/con-ra-the-thong-gi-nua/index.m3u8"
+        }
+      ]
+    }
+  ]
+}
