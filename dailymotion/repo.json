@@ -1,0 +1,8 @@
+{
+    "name": "My Extension",
+    "description": "extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/vuongvan/extensions/refs/heads/builds/plugins.json"
+    ]
+}
